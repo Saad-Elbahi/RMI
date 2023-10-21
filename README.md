@@ -27,9 +27,6 @@
 
 This captivating project is a remarkable showcase of the power of Java RMI (Remote Method Invocation) and a delightful Java Swing user interface. Imagine building a world of distributed magic where systems communicate seamlessly, while users enjoy a visually enchanting experience.
 
-<p align="center">
-  <img src="screenshot.png" width="600">
-</p>
 
 <h2>✨ Features</h2>
 
