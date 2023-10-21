@@ -16,10 +16,7 @@
 - [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
 - [🚦 Getting Started](#-getting-started)
   - [🔍 Prerequisites](#-prerequisites)
-  - [⚡ Installation](#-installation)
-- [🎮 Usage](#-usage)
-- [🌈 Contributing](#-contributing)
-- [📜 License](#-license)
+  - [⚡ Demostration](#-installation)
 
 ---
 
