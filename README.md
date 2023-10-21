@@ -1,4 +1,4 @@
-# RMI and Java Swing Project
+# RMI Project
 
 This project demonstrates the use of Java RMI (Remote Method Invocation) for building a distributed system, combined with Java Swing for creating a graphical user interface.
 
